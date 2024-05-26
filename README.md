@@ -18,20 +18,16 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/federico--aguilar/]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://www.linkedin.com/in/federico--aguilar/">
+    <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/326773513_3382475831992348_6736949377760121434_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qmXBzghBjysQ7kNvgHVsnjy&_nc_ht=scontent-lax3-2.xx&oh=00_AYARDgrJsgrDiNk_Bt4eRLfXCTF3XNK4otI_rerIQkuG4Q&oe=6659903E" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Celestial Bodies - PostgreSQL Database</h3>
@@ -111,8 +107,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Over the weekend, I wanted 
 
 ### Prerequisites
 
