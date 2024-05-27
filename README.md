@@ -90,8 +90,8 @@ Found on freecodecamp: https://www.freecodecamp.org/learn/relational-database/bu
 
 <!-- USAGE EXAMPLES -->
 ## Wireframe
-[Imgur](https://i.imgur.com/1SBtkvn.jpg)
-[Imgur](https://i.imgur.com/LLw6bHp.jpg)
+<img src="https://i.imgur.com/1SBtkvn.jpg" width="20%" />
+<img src="https://i.imgur.com/LLw6bHp.jpg" width="20%" />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
