@@ -29,13 +29,13 @@
 
   <p align="center">
     Celestial bodies database, a postgreSQL database project that required me to:
-    * Wireframe the database relationships within the scope of project requirements
-    * Implement my knowledge of postgreSQL by creating database tables, relationships, constraints, and debug issues (special shoutout to infinetely spamming the psql SQL client tool with pg_dump)
     <br />
     <a href="https://ricocode.com/"><strong>Portfolio »</strong></a>
     <br />
   </p>
 </div>
+* Wireframe the database relationships within the scope of project requirements
+* Implement my knowledge of postgreSQL by creating database tables, relationships, constraints, and debug issues (special shoutout to infinetely spamming the psql SQL client tool with pg_dump)
 
 
 
