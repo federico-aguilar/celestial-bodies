@@ -18,10 +18,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![postgreSQL][postgresql]][postgresql-url]
-
-https://miro.medium.com/v2/resize:fit:1100/format:webp/1*mMq3Bem9r8ASAn1YwcTbEw.png
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -106,15 +102,15 @@ Found on freecodecamp: https://www.freecodecamp.org/learn/relational-database/bu
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Understand project requirements
-- [ ] Write down project requirements
-- [ ] Wireframe database relationships
-- [ ] Wireframe datbase columns with types and contraints that satisfy project requirements
-- [ ] PostgreSQL database creation
-    - [ ] Create database
-    - [ ] Create tables that meet type, constraints, and row requirements
-    - [ ] Create foreign key relationships
-    - [ ] Debug
+- [X] Understand project requirements
+- [X] Write down project requirements
+- [X] Wireframe database relationships
+- [X] Wireframe datbase columns with types and contraints that satisfy project requirements
+- [X] PostgreSQL database creation
+    - [X] Create database
+    - [X] Create tables that meet type, constraints, and row requirements
+    - [X] Create foreign key relationships
+    - [X] Debug
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,7 +127,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+ - Federico Aguilar <a href="https://www.linkedin.com/in/federico--aguilar/">
+    <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/326773513_3382475831992348_6736949377760121434_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qmXBzghBjysQ7kNvgHVsnjy&_nc_ht=scontent-lax3-2.xx&oh=00_AYARDgrJsgrDiNk_Bt4eRLfXCTF3XNK4otI_rerIQkuG4Q&oe=6659903E" alt="Logo" width="80" height="80">
+  </a>
 
 Project Link: [https://github.com/federico-aguilar/celestial-bodies/tree/master?tab=readme-ov-file]
 
