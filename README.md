@@ -124,7 +124,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
- - Federico Aguilar <a href="https://www.linkedin.com/in/federico--aguilar/">
+ - Federico Aguilar 
+ <a href="https://www.linkedin.com/in/federico--aguilar/">
     <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/326773513_3382475831992348_6736949377760121434_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qmXBzghBjysQ7kNvgHVsnjy&_nc_ht=scontent-lax3-2.xx&oh=00_AYARDgrJsgrDiNk_Bt4eRLfXCTF3XNK4otI_rerIQkuG4Q&oe=6659903E" alt="Logo" width="80" height="80">
   </a>
 
