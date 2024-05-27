@@ -79,8 +79,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-
-* [![Next][Next.js]][Next-url]
+* [![postgreSQL][postgresql]][postgresql-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
