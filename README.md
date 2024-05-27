@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://www.linkedin.com/in/federico--aguilar/">
-    <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/326773513_3382475831992348_6736949377760121434_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qmXBzghBjysQ7kNvgHVsnjy&_nc_ht=scontent-lax3-2.xx&oh=00_AYARDgrJsgrDiNk_Bt4eRLfXCTF3XNK4otI_rerIQkuG4Q&oe=6659903E" alt="Logo" width="80" height="80">
+    <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/326773513_3382475831992348_6736949377760121434_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qmXBzghBjysQ7kNvgHVsnjy&_nc_ht=scontent-lax3-2.xx&oh=00_AYARDgrJsgrDiNk_Bt4eRLfXCTF3XNK4otI_rerIQkuG4Q&oe=6659903E" alt="Logo" width="200">
   </a>
 
 <h3 align="center">Celestial Bodies - PostgreSQL Database</h3>
@@ -75,13 +75,14 @@ I started learning the basics of the language with the course "Learn Relational 
 
 ### Built With
 * <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*mMq3Bem9r8ASAn1YwcTbEw.png" width="250px">
+* <img src="https://docs.localstack.cloud/user-guide/integrations/gitpod/gitpod_logo.png" width="250px">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Built on git pod virtual machines and extracted final wirk with pg_dump command-line program
+Built on git pod virtual machines and extracted final work with pg_dump command-line program
 
 ### Prerequisites
 
@@ -126,8 +127,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
  - Federico Aguilar <a href="https://www.linkedin.com/in/federico--aguilar/">
     <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/326773513_3382475831992348_6736949377760121434_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qmXBzghBjysQ7kNvgHVsnjy&_nc_ht=scontent-lax3-2.xx&oh=00_AYARDgrJsgrDiNk_Bt4eRLfXCTF3XNK4otI_rerIQkuG4Q&oe=6659903E" alt="Logo" width="80" height="80">
   </a>
-
-Project Link: [https://github.com/federico-aguilar/celestial-bodies/tree/master?tab=readme-ov-file]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
