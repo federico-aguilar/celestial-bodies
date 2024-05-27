@@ -79,8 +79,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-* [![postgreSQL][postgresql]][postgresql-url]
-
+* <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*mMq3Bem9r8ASAn1YwcTbEw.png" width="250px">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
