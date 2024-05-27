@@ -67,9 +67,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Over the weekend, I wanted to learn PostgreSQL and see what are the similarities and differences between it and a language that I use in my day-to-day, MS SQL.
+I started learning the basics of the language with the course "Learn Relational Databases by Building a Mario Database". Then, I reinforced what I learned in that step-by-step tutorial by designing my own PostgreSQL database, given just product requirements. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,9 +81,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-Over the weekend, I wanted to learn PostgreSQL and see what are the similarities and differences between it and a language that I use in my day-to-day, MS SQL.
-I started learning the basics of the language with the course "Learn Relational Databases by Building a Mario Database". Then, I reinforced what I learned in that step-by-step tutorial by designing my own PostgreSQL database, given just product requirements. 
+Built on git pod virtual machines and extracted final wirk with pg_dump command-line program
 
 ### Prerequisites
 
@@ -93,9 +90,8 @@ Found on freecodecamp: https://www.freecodecamp.org/learn/relational-database/bu
 
 <!-- USAGE EXAMPLES -->
 ## Wireframe
-[![Product Name Screen Shot][product-screenshot]](https://imgur.com/a/hR2L1wZ)
-[![Product Name Screen Shot][product-screenshot]](https://imgur.com/LLw6bHp)
-
+[Imgur](https://i.imgur.com/1SBtkvn.jpg)
+[Imgur](https://i.imgur.com/LLw6bHp.jpg)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
